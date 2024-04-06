@@ -10,6 +10,7 @@ const ViewAllJobs = () => {
           >View All Jobs</a
         >
       </section>
+      <script src="js/main.js"></script>
     </>
   )
 }
